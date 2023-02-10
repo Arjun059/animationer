@@ -1,7 +1,7 @@
 // animation runner 
 window.onload = function() {
     let elems = document.getElementsByClassName("animation-elems");
-    let position_to_animation = Math.round(window.screen.availHeight * 75 / 100);
+    let position_to_animation = Math.round(window.screen.availHeight * 60 / 100);
     
     // before scrolling some elements are visiable in window screen 
     for (let i = 0; i < elems.length; i++) { 
