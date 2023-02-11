@@ -20,3 +20,24 @@ textExpand(elements);
 
 ```
 
+#### Animationer functions 
+- ###### textExpand
+- ###### textExpand
+- ###### textContractBack
+- ###### textFocusIn
+- ###### textFocusIn
+- ###### textFocusInExpand
+- ###### textFocusInContract
+- ###### textFlicker
+- ###### rotate
+- ###### vibrate
+- ###### shake
+- ###### jello
+- ###### wobble 
+- ###### bounce
+- ###### beat
+- ###### blink 
+- ###### slitHorizontal
+- ###### slitVertical 
+- ###### slitDiagonal
+
