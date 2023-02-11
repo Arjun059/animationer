@@ -1,7 +1,7 @@
 # animationer
 
-###  `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arjun059/animationer/style.min.css">`
-###   `<script src="https://cdn.jsdelivr.net/gh/Arjun059/animationer/index.min.js" ></script>`
+##### `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arjun059/animationer/style.min.css">`
+##### `<script src="https://cdn.jsdelivr.net/gh/Arjun059/animationer/index.min.js"></script>`
 
 #### How it's work 
 1. ###### Add script and css file in head of html document 
