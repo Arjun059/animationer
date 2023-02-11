@@ -22,9 +22,7 @@ textExpand(elements);
 
 #### Animationer functions 
 - ###### textExpand
-- ###### textExpand
 - ###### textContractBack
-- ###### textFocusIn
 - ###### textFocusIn
 - ###### textFocusInExpand
 - ###### textFocusInContract
