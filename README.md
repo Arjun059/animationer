@@ -1,6 +1,6 @@
 # animationer
 #### Animationer is simple yet fast library for web.
-#### Animate an Element on scroll 
+#### Animate an Element on Scroll 
 
 ##### `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arjun059/animationer/style.min.css">`
 ##### `<script src="https://cdn.jsdelivr.net/gh/Arjun059/animationer/index.min.js"></script>`
@@ -21,7 +21,7 @@ let elements = document.getElementByTagName("p");
 textExpand(elements);
 
 ```
-```
+
 #### Animationer functions 
 - ###### textExpand
 - ###### textContractBack
@@ -40,5 +40,5 @@ textExpand(elements);
 - ###### slitHorizontal
 - ###### slitVertical 
 - ###### slitDiagonal
-```
+
 
