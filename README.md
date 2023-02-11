@@ -1,6 +1,6 @@
 # animationer
 
-##### `#FFD700 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arjun059/animationer/style.min.css">`
+##### `textcolor{#b84514}{<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Arjun059/animationer/style.min.css">}`
 ##### `<script src="https://cdn.jsdelivr.net/gh/Arjun059/animationer/index.min.js"></script>`
 
 #### How it's work 
