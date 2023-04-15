@@ -1,3 +1,28 @@
-.container {
-    padding: 20px;
+
+body {
+    min-height: 2000px;
 }
+.refress-icon {
+    height: 25px;
+    width: 24px;
+    cursor: pointer;
+}
+
+.rotateAnimation {
+    transform: rotate(360deg);
+    animation-duration: 400ms;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    animation-name: refress;
+    animation-fill-mode: forwards;
+}
+
+@keyframes refress {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+    
+}
+

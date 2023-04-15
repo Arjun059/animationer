@@ -17,9 +17,16 @@ window.onload = function() {
                 let animation_name = elems[i].getAttribute("data-animation_name");
                 elems[i].classList.add(animation_name)
             }
+
+            if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight){
+                let animation_name = elems[i].getAttribute("data-animation_name");
+                elems[i].classList.add(animation_name)
+            }
+
         }
         
     }
+    
 }
 
 
