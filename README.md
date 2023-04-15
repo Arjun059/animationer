@@ -17,7 +17,7 @@
 let element = document.getElementById("demo");
 textExpand(element);
 
-let elements = document.getElementByTagName("p");
+let elements = document.getElementsByTagName("p");
 textExpand(elements);
 
 ```
