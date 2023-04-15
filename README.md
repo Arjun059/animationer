@@ -21,6 +21,7 @@ let elements = document.getElementsByTagName("p");
 textExpand(elements);
 
 ```
+### [Check Animation Examples here](https://arjun059.github.io/animationer/)
 
 #### Animationer functions 
 - ###### textExpand
