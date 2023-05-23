@@ -7,8 +7,8 @@
 
 #### How it's work 
 1. ###### Add script and css file in head of html document 
-2. ###### Get an html element or HtmlCollection
-3. ###### Call animationer and pass this element as argument
+2. ###### Get html element or HtmlCollection
+3. ###### Call animationer function and pass this element as argument
 
 #### Examples 
 
