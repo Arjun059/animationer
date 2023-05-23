@@ -10,7 +10,7 @@
 2. ###### Get html element or HtmlCollection
 3. ###### Call animationer function and pass this element as argument
 
-#### Examples 
+#### Examples  
 
 
 ```
